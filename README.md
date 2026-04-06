@@ -1,22 +1,11 @@
-[README.md](https://github.com/user-attachments/files/26508159/README.md)
+[README (2).md](https://github.com/user-attachments/files/26508263/README.2.md)
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Petryk&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas%20•%20PUCPR&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%" />
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+%7C+Web+%7C+Backend;React+%2B+Node.js+%2B+TypeScript;Curitiba%2C+Paraná+🌲" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+TypeScript;Web+%7C+Mobile+%7C+Backend;Curitiba%2C+Paraná+🌲" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
-<br/>
 
 </div>
 
@@ -30,7 +19,6 @@ const petryk = {
   localização: "Curitiba, Paraná 🌲",
   foco:        ["Full Stack Web", "Mobile (Android)", "APIs REST"],
   atualmente:  "Desenvolvendo projetos reais enquanto curso a faculdade",
-  contato:     "seu@email.com",
 };
 ```
 
@@ -70,34 +58,22 @@ const petryk = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=petrykpm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrykpm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=petrykpm&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![DM Motos](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=dm-moto-pros&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)](https://github.com/SEU_USERNAME/dm-moto-pros)
-
-</div>
-
-> 💡 *Substitua `SEU_USERNAME` pelo seu usuário do GitHub e adicione os repos reais que quiser destacar.*
 
 ---
 
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrykpm&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -106,6 +82,6 @@ const petryk = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
-<sub>Feito com 💜 em Curitiba · Estudante na <strong>PUCPR</strong> · Full Stack Developer</sub>
+<sub>Estudante na <strong>PUCPR</strong> · Curitiba, Paraná · Full Stack Developer</sub>
 
 </div>
