@@ -24,19 +24,3 @@ JavaScript • TypeScript • Java • Python
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
-
-## Projetos em destaque
-
-### 🔹 Controle de Assinaturas
-Sistema para gerenciamento de assinaturas e gastos (incluindo IA).
-- React + TypeScript
-- Node.js + Prisma
-- PostgreSQL
-- Deploy com Vercel
-
-👉 https://github.com/petrykpm/Controle-Pessoal
-
-## Contato
-
-- LinkedIn: [SEU LINK]
-- Email: SEU EMAIL
